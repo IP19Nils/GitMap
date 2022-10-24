@@ -1,7 +1,8 @@
 body {
     background: #33CCCC; /* Fallback */
-    animation: color 10s infinite linear;
+    animation: color 5s infinite linear;
     text-align: center;
+    position: static;
 }
 
 h1 {
